@@ -17,5 +17,5 @@ The central development, research, and creative hub for our digital projects.
 ---
 
 ### Connect With Us
-* 🌍 [Hancerz](https://www.hancerz.com)
+* 🔗 [Hancerz](https://www.hancerz.com)
 * ✉️ Contact us for collaborations
