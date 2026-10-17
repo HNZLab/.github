@@ -290,7 +290,7 @@ Workflow automation, business systems, e-commerce networks, productivity tools, 
 
 ## `06 / CONTRIBUTION ARCADE`
 
-<img src="https://raw.githubusercontent.com/HNZLab/HNZLab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="HNZLab animated contribution snake"/>
+<img src="https://raw.githubusercontent.com/HNZLab/.github/output/github-contribution-grid-snake-dark.svg" width="100%" alt="HNZLab animated contribution snake"/>
 
 <a href="https://github.com/HNZLab">
 <img src="https://img.shields.io/badge/EXPLORE_HNZLAB_ON_GITHUB-00F5D4?style=for-the-badge&logo=github&logoColor=030712" alt="HNZLab GitHub"/>
